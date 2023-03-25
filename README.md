@@ -15,6 +15,6 @@ With the new *OpenAI is not Open* extension, every instance of OpenAI will be re
 
 
 
-So just add this extension to Firefox today!
+So just add this extension to Firefox today! <a href="https://addons.mozilla.org/en-US/developers/addon/openai-is-not-open">https://addons.mozilla.org/en-US/developers/addon/openai-is-not-open</a>
 
 ### Firefox only. If someone wants to bring this to Chromium, go for it. 
