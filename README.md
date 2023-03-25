@@ -1,6 +1,6 @@
 <h1 align="center"> OpenAI is not Open </h1>
 <br/>
-To get this out of the way, I love "Open"AI. They make absolutely incredible tools and actually release them to be used (unlike Google and Facebook).
+To get this out of the way, I love "Open"AI. They make absolutely incredible tools and actually release them (unlike Google and Facebook).
 
 <br/>
 
