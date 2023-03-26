@@ -1,10 +1,6 @@
 <h1 align="center"> OpenAI is not Open </h1>
 <br/>
-To get this out of the way, I love "Open"AI. They make incredible tools and actually release them (unlike Google and Facebook).
-
-<br/>
-
-However, I am beyond tired of conversations like this:
+I love "Open"AI. They make incredible tools and actually release them (unlike Google and Facebook). However, I am beyond tired of conversations like this:
 <img src="https://github.com/zaporter/OpenAI-is-not-Open/blob/main/images/DumbConvo.png?raw=true">
 
 <br/>
